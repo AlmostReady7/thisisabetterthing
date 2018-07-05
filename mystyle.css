@@ -1,0 +1,19 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+*{
+	background-image:url("ledbetter.png");
+}
+
+div{
+	background-color:#271500;
+	background-image:none;
+	width:100%;
+}
+
+p{
+	background-image:none;
+	font-size:36pt;
+}
