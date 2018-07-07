@@ -19,6 +19,12 @@ div{
 	padding-left:0.25em;
 }
 
+#date{
+	background-image:none;
+	font-size:18pt;
+	padding-left:0.25em
+}
+
 #content{
 	background-image:none;
 	font-size:24pt;
