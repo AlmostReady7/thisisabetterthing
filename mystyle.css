@@ -20,18 +20,19 @@ p{
 #title{
 	background-image:none;
 	font-size:36pt;
-	padding-left:0.25em;
 }
 
 #date{
 	background-image:none;
 	font-size:18pt;
-	padding-left:0.25em;
 	color:white;
 }
 
 #content{
 	background-image:none;
 	font-size:24pt;
+}
+
+div{
 	padding-left:0.25em;
 }
