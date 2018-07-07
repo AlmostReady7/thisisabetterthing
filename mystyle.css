@@ -29,7 +29,7 @@ p{
 	font-size:24pt;
 }
 
-div{
+#container{
 	padding-left:0.25em;
 	background-color:rgba(0,0,0,0);
 }
